@@ -27,7 +27,7 @@ This project, once majority or all of it is done, will be deployed in Vercel for
 
 ### Open to who?
 
-We are open to contributions, only mainly from our friends or people we know though. We apologize if you wish to join and contribute with code. For our friends/people we know, please request permission from the contributors to be included. Thank you!
+We are open to contributions, only mainly from our friends or people we know though. We apologize if you wish to join and contribute with code. For our friends/people we know, please request permission from the main contributors to be included. Thank you!
 
 #### **IMPORTANT**
 
