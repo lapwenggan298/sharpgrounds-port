@@ -31,9 +31,8 @@ We are open to contributions, only mainly from our friends or people we know tho
 
 #### **IMPORTANT**
 
-Please refer as well to our CONTRIBUTING file for some standards on how our code, commits, and comments are done or implemented.
+Please refer as well to our [CONTRIBUTING](./CONTRIBUTING.md) file for some standards on how our code, commits, and comments are done or implemented.
 
-- CONTRIBUTING.md file to follow.
 
 ### Still want to contribute but not a friend of ours, or knowledgable enough in programming?
 
