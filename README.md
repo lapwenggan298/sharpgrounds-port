@@ -33,7 +33,6 @@ We are open to contributions, only mainly from our friends or people we know tho
 
 Please refer as well to our [CONTRIBUTING](./CONTRIBUTING.md) file for some standards on how our code, commits, and comments are done or implemented.
 
-
 ### Still want to contribute but not a friend of ours, or knowledgable enough in programming?
 
 Worry not! For code is not the only way you can contribute to us! Feel free to leave comments, suggestions, and bugs you may have found while trying or running our project! This also applies to our friends who contribute to our project via code.
