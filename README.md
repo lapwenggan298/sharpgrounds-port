@@ -17,11 +17,17 @@ This project, once majority or all of it is done, will be deployed in Vercel for
 
 ## Table of Contents
 
-1. [Contributions](#want-to-contribute)
+1. [License](#license)
+2. [Contributions](#want-to-contribute)
     1. [For Our Friends](#open-to-who)
     2. [For Others](#still-want-to-contribute-but-not-a-friend-of-ours-or-knowledgable-enough-in-programming)
-2. [On AI](#our-stancethoughts-on-generative-ai)
-3. [Details/Content of Project site](#content-of-website)
+3. [On AI](#our-stancethoughts-on-generative-ai)
+    - [AI Used](#ai-usedimplemented)
+4. [Details/Content of Project site](#content-of-website)
+
+## License
+
+For this project/repository, we are using the BSD-3-Clause license. You may view the license via the [LICENSE](./LICENSE.md) file.
 
 ## Want to Contribute?
 
